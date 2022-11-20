@@ -25,8 +25,8 @@ DATA SEGMENT
  
    DISPENSE_PROMPT DB "Dispensing...","$"
    READY DB "Get Your Drink :D","$"
-   L_CK DB "[1] Coke Large","$"
-   M_CK DB "[2] Coke Medium","$"
+   L_CK DB "[1] Coke ","$"
+   M_CK DB "[2] Coke Medm","$"
    L_SPR DB "[3] Sprite Large","$"
    M_SPR DB "[4] Sprite Medium","$"
 DATA ENDS
